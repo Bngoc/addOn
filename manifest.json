@@ -43,7 +43,9 @@
   "description": "Công cụ Đặt hàng của dathangsieure.com trên trình duyệt Chrome & Cờ rôm+.",
   "manifest_version": 2,
   "name": "Công Cụ Đặt Hàng Siêu rẻ",
-  "omnibox": { "keyword" : "aaron" },
+  "omnibox": {
+    "keyword": "aaron"
+  },
   "permissions": [
     "http://*/*",
     "https://*/*",
@@ -53,7 +55,7 @@
   ],
   "version": "4.11.73",
   "background": {
-    "persistent": true,
+    "persistent": false,
     "page": "background.html"
   },
   "options_page": "options.html",

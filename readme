@@ -1,0 +1,11 @@
+
+        (.*?)$ => '$1', =====> ' => "
+
+..
+
+WEB:
+
+    https://item.taobao.com/item.htm?spm=a21bo.7929913.198967.20.2cb041744kWv9t&id=554478732142
+    https://open.taobao.com/docs/api.htm?spm=a219a.7629065.0.0.zNwqos&apiId=21348
+    https://open.taobao.com/docs/api_list.htm?spm=a219a.7395905.0.0.u6rmFq&docType=
+    https://open.taobao.com/doc2/doc_index.htm?spm=a219a.7395905.0.0.u6rmFq
